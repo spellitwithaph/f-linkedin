@@ -1,6 +1,6 @@
 # f-linkedin
 
-A Chrome extension that fixes LinkedIn feed annoyances.
+A Chrome/Chromium browser extension that fixes LinkedIn feed annoyances.
 
 ## Features
 
