@@ -4,13 +4,13 @@ A Chrome/Chromium browser extension that fixes LinkedIn feed annoyances.
 
 ## Features
 
-- **Space key fix** — Prevents LinkedIn from hijacking the Space key when you're not typing in an input field. No more accidentally scrolling or triggering actions while browsing.
-- **Notification hover preview** — Hover over the Notifications nav icon to see a dropdown preview of your notifications without navigating away from the feed.
+- **Space key fix** — Prevents LinkedIn from hijacking the Space key when using it to navigate down your Feed.
+- **Notification hover preview** — Hover over the Notifications nav icon to see a dropdown preview of your notifications without navigating away from your Feed.
 
 ## Installation
 
 1. Clone or download this repository
-2. Open `chrome://extensions/` in Chrome
+2. Open `chrome://extensions/` in Chrome (or the Chromium browser equivelent)
 3. Enable **Developer mode** (toggle in the top-right)
 4. Click **Load unpacked** and select the project folder
 
